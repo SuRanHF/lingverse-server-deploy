@@ -1,0 +1,8 @@
+{
+  "version": "1.2.9",
+  "title": "神识清理 v1.2.9",
+  "notes": [
+    "修复本命吞噬：改查背包(/api/game/inventory)，兼容type/slot/attackBonus等多种字段名。"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/SuRanHF/lingverse-spirit-cleaner/main/lingverse-spirit-cleaner.user.js?v=1.2.9"
+}
